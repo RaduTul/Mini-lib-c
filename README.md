@@ -81,10 +81,10 @@ The total number of points available is **900**, with the maximum possible grade
 ### Expected Output
 Initially, many tests will fail due to missing implementations. A successful run should display passing tests, such as:
 ```sh
-test_strcpy                      ........................ passed ...   9
-test_memcpy                      ........................ passed ...  11
-test_open_non_existent_file      ........................ passed ...   8
-test_sleep                       ........................ passed ...  20
+test_strcpy                      ........................ passed ..   9
+test_memcpy                      ........................ passed ..  11
+test_open_non_existent_file      ........................ passed ..   8
+test_sleep                       ........................ passed ..  20
 ```
 
 To achieve full marks, all required functions must be correctly implemented and tested.
